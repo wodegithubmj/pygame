@@ -1,2 +1,1 @@
-# pygame
-pygame使用填坑
+# Python学习笔记
